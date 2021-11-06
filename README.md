@@ -1,5 +1,5 @@
 # Vicious-World---Pygame
-a RPG game using PyGame
+an RPG game (Final Fantasy Style) using PyGame
 
 How to run :
 1- pip -r requirements.txt
